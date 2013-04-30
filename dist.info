@@ -14,6 +14,6 @@ depends = {
   "lpack",
   "luasocket",
   "luabitop",
-  "lua-ev",
+--  "lua-ev", -- Only Available for UNIX systems
   "copas"
 }
